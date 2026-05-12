@@ -1,0 +1,64 @@
+```
+# Dependencies
+node_modules/
+vendor/
+
+# Build artifacts
+dist/
+build/
+target/
+
+# Compiled files
+*.js
+*.css
+*.html
+*.svg
+*.json
+*.node
+
+# Package lock files
+package-lock.json
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Environment
+.env
+.env.local
+.env.*
+!env.example
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Python cache (if present in project)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Testing
+.nyc_output/
+.mypy_cache/
+.pytest_cache/
+.jest/
+```
