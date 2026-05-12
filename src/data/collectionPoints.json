@@ -92,10 +92,10 @@
     }
   ],
   "wasteTypes": {
-    "orgánica": { color: "#8B4513", icon": "apple-core", description: "Restos de comida, cáscaras, posos de café" },
-    "envases": { color: "#FFD700", icon": "package", description: "Plásticos, latas, briks" },
-    "papel": { color: "#1E90FF", icon": "file-text", description: "Papel, cartón, periódicos" },
-    "vidrio": { color: "#228B22", icon": "wine", description": "Botellas, tarros de cristal" },
-    "resto": { color: "#696969", icon": "trash-2", description: "Residuos no reciclables" }
+    "orgánica": { "color": "#8B4513", "icon": "apple-core", "description": "Restos de comida, cáscaras, posos de café" },
+    "envases": { "color": "#FFD700", "icon": "package", "description": "Plásticos, latas, briks" },
+    "papel": { "color": "#1E90FF", "icon": "file-text", "description": "Papel, cartón, periódicos" },
+    "vidrio": { "color": "#228B22", "icon": "wine", "description": "Botellas, tarros de cristal" },
+    "resto": { "color": "#696969", "icon": "trash-2", "description": "Residuos no reciclables" }
   }
 }
