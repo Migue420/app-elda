@@ -1,0 +1,22 @@
+{
+  "name": "elda-circular-2026",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Portal dinámico para la gestión de residuos e innovación ciudadana en Elda, España. Sistema Operativo Cívico (Civic OS).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["civic-os", "recycling", "gamification", "elda"],
+  "author": "Elda Circular 2026",
+  "license": "MIT",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "lucide-react": "^1.14.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "vite": "^8.0.12"
+  }
+}

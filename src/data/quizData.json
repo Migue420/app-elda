@@ -1,0 +1,79 @@
+{
+  "primaria": [
+    {
+      "id": "p1",
+      "question": "¿De qué color es el contenedor para el papel?",
+      "options": ["Azul", "Amarillo", "Verde"],
+      "correct": 0,
+      "points": 10
+    },
+    {
+      "id": "p2",
+      "question": "¿Las botellas de plástico van en el contenedor amarillo?",
+      "options": ["Sí", "No"],
+      "correct": 0,
+      "points": 10
+    },
+    {
+      "id": "p3",
+      "question": "¿El vidrio se recicla en el contenedor verde?",
+      "options": ["Sí", "No"],
+      "correct": 0,
+      "points": 10
+    }
+  ],
+  "secundaria": [
+    {
+      "id": "s1",
+      "question": "¿Cuánto dinero ahorra el municipio por cada tonelada recuperada?",
+      "options": ["50€", "90€", "150€"],
+      "correct": 1,
+      "points": 20
+    },
+    {
+      "id": "s2",
+      "question": "¿Qué residuo NO debe ir al contenedor de orgánica?",
+      "options": ["Cáscaras de plátano", "Posos de café", "Plástico"],
+      "correct": 2,
+      "points": 20
+    },
+    {
+      "id": "s3",
+      "question": "¿Los briks de leche van en el contenedor...?",
+      "options": ["Azul", "Amarillo", "Marrón"],
+      "correct": 1,
+      "points": 20
+    }
+  ],
+  "universidad": [
+    {
+      "id": "u1",
+      "question": "¿Cuál es el principal beneficio económico de la economía circular?",
+      "options": [
+        "Reducción de costes de extracción de materias primas",
+        "Aumento del consumo",
+        "Mayor producción de residuos"
+      ],
+      "correct": 0,
+      "points": 30
+    },
+    {
+      "id": "u2",
+      "question": "¿Qué porcentaje de energía se ahorra al reciclar aluminio frente a producirlo desde cero?",
+      "options": ["25%", "50%", "95%"],
+      "correct": 2,
+      "points": 30
+    },
+    {
+      "id": "u3",
+      "question": "¿Qué es la 'tasa de retorno' en un sistema SDR (Sistema de Depósito, Devolución y Retorno)?",
+      "options": [
+        "El porcentaje de envases retornados respecto a los vendidos",
+        "El dinero devuelto al consumidor",
+        "La tasa de impuestos aplicada"
+      ],
+      "correct": 0,
+      "points": 30
+    }
+  ]
+}

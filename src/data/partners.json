@@ -1,0 +1,31 @@
+{
+  "partners": [
+    {
+      "id": "partner1",
+      "name": "Cafetería Central",
+      "category": "Restauración",
+      "address": "Plaza Mayor, 5",
+      "discount": "10% en cafés",
+      "coinsRequired": 50,
+      "logo": "/media/partners/cafe-central.png"
+    },
+    {
+      "id": "partner2",
+      "name": "Panadería Eldense",
+      "category": "Alimentación",
+      "address": "Calle Nueva, 12",
+      "discount": "Barra de pan gratis",
+      "coinsRequired": 30,
+      "logo": "/media/partners/panaderia.png"
+    },
+    {
+      "id": "partner3",
+      "name": "Librería Cultural",
+      "category": "Comercio",
+      "address": "Av. de Chapí, 8",
+      "discount": "15% en libros",
+      "coinsRequired": 100,
+      "logo": "/media/partners/libreria.png"
+    }
+  ]
+}
