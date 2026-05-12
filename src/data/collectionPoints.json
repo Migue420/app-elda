@@ -1,0 +1,101 @@
+{
+  "collectionPoints": [
+    {
+      "id": 1,
+      "name": "Esquina Quita y Pon #1",
+      "address": "Calle Nueva / Colón",
+      "lat": 38.4789,
+      "lng": -0.7989,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 2,
+      "name": "Esquina Quita y Pon #2",
+      "address": "Plaza Mayor",
+      "lat": 38.4795,
+      "lng": -0.7995,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 3,
+      "name": "Esquina Quita y Pon #3",
+      "address": "Av. de Chapí / Calle Constitución",
+      "lat": 38.4801,
+      "lng": -0.8001,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 4,
+      "name": "Esquina Quita y Pon #4",
+      "address": "Calle Ample / Placeta de San Roque",
+      "lat": 38.4785,
+      "lng": -0.7982,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 5,
+      "name": "Esquina Quita y Pon #5",
+      "address": "Calle Sax / Avenida de la Estación",
+      "lat": 38.4810,
+      "lng": -0.8010,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 6,
+      "name": "Esquina Quita y Pon #6",
+      "address": "Calle Monòver / Carrer de Petrer",
+      "lat": 38.4775,
+      "lng": -0.7975,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 7,
+      "name": "Esquina Quita y Pon #7",
+      "address": "Plaza de la Iglesia",
+      "lat": 38.4792,
+      "lng": -0.7988,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 8,
+      "name": "Esquina Quita y Pon #8",
+      "address": "Calle Massena / Calle Filet de Fora",
+      "lat": 38.4798,
+      "lng": -0.7992,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 9,
+      "name": "Esquina Quita y Pon #9",
+      "address": "Av. de Madrid / Calle Doctor Fleming",
+      "lat": 38.4815,
+      "lng": -0.8015,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    },
+    {
+      "id": 10,
+      "name": "Esquina Quita y Pon #10",
+      "address": "Calle Novelda / Carrer de Salines",
+      "lat": 38.4770,
+      "lng": -0.7970,
+      "type": "multi",
+      "containers": ["orgánica", "envases", "papel", "vidrio", "resto"]
+    }
+  ],
+  "wasteTypes": {
+    "orgánica": { color: "#8B4513", icon": "apple-core", description: "Restos de comida, cáscaras, posos de café" },
+    "envases": { color: "#FFD700", icon": "package", description: "Plásticos, latas, briks" },
+    "papel": { color: "#1E90FF", icon": "file-text", description: "Papel, cartón, periódicos" },
+    "vidrio": { color: "#228B22", icon": "wine", description": "Botellas, tarros de cristal" },
+    "resto": { color: "#696969", icon": "trash-2", description: "Residuos no reciclables" }
+  }
+}
